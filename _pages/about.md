@@ -7,7 +7,7 @@ subtitle: <a href='https://www.ou.edu'>University of Oklahoma</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Industrial & Systems Engineering</p>
 
