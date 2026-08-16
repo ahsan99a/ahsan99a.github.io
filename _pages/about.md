@@ -14,6 +14,7 @@ profile:
 
 news: true
 selected_papers: true
+social: true
 ---
 
 I am a PhD student in Industrial and Systems Engineering at the University of Oklahoma. My research focuses on network optimization, supply chain resilience, and data-driven methods for defense and logistics systems.
